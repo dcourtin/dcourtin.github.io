@@ -1,3 +1,4 @@
 node_modules/
 assets/app.css
 .DS_Store
+assets/app.js 
